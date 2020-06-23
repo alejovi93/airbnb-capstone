@@ -5,7 +5,7 @@
 - [Licensing, Authors and Acknowledgements](#licensing--authors--and-acknowledgements)
 
 ## Installations
-The code is supposed to run using Python 3.x, Anaconda distribution should providing everything necessary to run the files successfully.
+The code is supposed to run using Python 3.x, Anaconda distribution should provide everything necessary to run the files successfully.
 
 ## Project Motivation
 For the project, I was interestested in analysing AirBnb data to understand:
