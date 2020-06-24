@@ -10,9 +10,9 @@ The code is supposed to run using Python 3.x, Anaconda distribution should provi
 ## Project Motivation
 For the project, I was interestested in analysing AirBnb data to understand:
 
-Where would it be ideal to be an AirBnb owner?
+Where would it be ideal to be an AirBnb owner? What are the best neighbourhoods?
 Are there any advantages in being a superhost in terms of occupancy?
-What property characteristics are the most profitable?
+What are the main determinants of prices?
 
 ## File Description
 There is 1 notebook available here that shows every step of the analysis. The notebook is meant to show how the result of the analysis (here) was reached.
