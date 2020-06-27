@@ -18,5 +18,7 @@ For the project, I was interestested in analysing AirBnb data to understand:
 There is 1 notebook available here that shows every step of the analysis. The notebook is meant to show how the result of the analysis (here) was reached.
 Datasets can be found on Kaggle ([Seattle](kaggle.com/airbnb/seattle/data#) and [Boston](https://www.kaggle.com/airbnb/boston))
 
+## Result
+You can find the findings of the analysis [here](https://medium.com/@ajulliett/what-makes-you-the-best-airbnb-owner-48f8d7ddcae7)
 ## Licensing, Authors and Acknowledgements
 I am grateful to AirBnb and Kaggle for data availability.
